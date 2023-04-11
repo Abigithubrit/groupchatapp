@@ -1,0 +1,2 @@
+Adding fire nbase
+4.fireabse.initializeapp(options:)
